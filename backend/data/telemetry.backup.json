@@ -1,0 +1,74 @@
+[
+  {
+    "satelliteId": "SAT-001",
+    "timestamp": "2026-08-10T16:46:24.574Z",
+    "temperature": 27.2,
+    "batteryVoltage": 28.79,
+    "batteryPercentage": 70.1,
+    "solarPower": 2.09,
+    "altitude": 543.63,
+    "velocity": 7.64,
+    "orientation": "ADJUSTING",
+    "communicationStatus": "ACTIVE"
+  },
+  {
+    "satelliteId": "SAT-001",
+    "timestamp": "2026-08-10T16:46:24.614Z",
+    "temperature": 25.2,
+    "batteryVoltage": 28.96,
+    "batteryPercentage": 81.4,
+    "solarPower": 2.3,
+    "altitude": 547.14,
+    "velocity": 7.57,
+    "orientation": "ADJUSTING",
+    "communicationStatus": "ACTIVE"
+  },
+  {
+    "satelliteId": "SAT-001",
+    "timestamp": "2026-08-10T16:46:24.614Z",
+    "temperature": 26,
+    "batteryVoltage": 27.6,
+    "batteryPercentage": 87.4,
+    "solarPower": 1.9,
+    "altitude": 549.56,
+    "velocity": 7.61,
+    "orientation": "NOMINAL",
+    "communicationStatus": "ACTIVE"
+  },
+  {
+    "satelliteId": "SAT-001",
+    "timestamp": "2026-08-10T16:46:24.614Z",
+    "temperature": 22.2,
+    "batteryVoltage": 29.29,
+    "batteryPercentage": 76,
+    "solarPower": 1.5,
+    "altitude": 547.81,
+    "velocity": 7.55,
+    "orientation": "NOMINAL",
+    "communicationStatus": "ACTIVE"
+  },
+  {
+    "satelliteId": "SAT-001",
+    "timestamp": "2026-08-10T16:46:24.614Z",
+    "temperature": 37.9,
+    "batteryVoltage": 28.79,
+    "batteryPercentage": 91.7,
+    "solarPower": 1.38,
+    "altitude": 540.04,
+    "velocity": 7.51,
+    "orientation": "NOMINAL",
+    "communicationStatus": "ACTIVE"
+  },
+  {
+    "satelliteId": "SAT-001",
+    "timestamp": "2026-08-10T16:46:24.614Z",
+    "temperature": 24.2,
+    "batteryVoltage": 27.69,
+    "batteryPercentage": 82.7,
+    "solarPower": 1.92,
+    "altitude": 549.79,
+    "velocity": 7.58,
+    "orientation": "NOMINAL",
+    "communicationStatus": "ACTIVE"
+  }
+]
